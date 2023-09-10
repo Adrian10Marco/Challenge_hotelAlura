@@ -30,8 +30,8 @@ A continuación, le indicamos los pasos a seguir para importar el proyecto Java 
 
 
 4. No olvide iniciar sesión utilizando las siguientes credenciales:
-   - **Usuario:** "admin"
-   - **Contraseña:** "admin"
+   - Usuario: "admin"
+   - Contraseña: "admin"
   
 ![image](https://github.com/CLP7432/Challenge_Adrian_hotelalura/assets/121730557/4294e383-0248-420b-9b1d-d36b300d3105)
 
