@@ -1,6 +1,6 @@
 # Challenge_hotelAlura
 # Instrucciones de Instalación de la Base de Datos para Hotel Alura
-
+ 
 Antes de ejecutar la aplicación Hotel Alura, es fundamental crear la base de datos correspondiente. Para facilitar este proceso, hemos proporcionado en el repositorio un archivo de texto "Query para crear base de datos" la consulta SQL que puede ejecutar en su administrador de bases de datos favorito, ya sea Workbench o mediante phpMyAdmin. Simplemente copie y pegue el siguiente código en su administrador y proceda a ejecutarlo:
 
 Recuerda activar mysql y apache en caso de usar Xampp
